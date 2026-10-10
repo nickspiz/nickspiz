@@ -4,7 +4,7 @@ I build and ship products with Claude Code and a team of AI agents. I'm a solo f
 
 ## What I'm building
 
-- [ToDowl](https://todowl.com): tasks, calendar, notes and habits in one quiet workspace. The calendar is part of Pro; the free plan covers tasks and notes.
+- [ToDowl](https://todowl.com): tasks, calendar and notes in one quiet workspace, with Day, 3-day, 4-day and Week views. The calendar is part of Pro.
 - [AskAiRank](https://askairank.com): shows how often ChatGPT, Claude, Perplexity and other AI engines mention your brand, and how you compare with competitors.
 - [Linguin](https://linguin.app): an AI translator for web, desktop and mobile.
 - [Earthquake Globe](https://earthquakes.site): recent earthquakes on an interactive 3D globe, built on public USGS data.
