@@ -20,6 +20,8 @@ Small pieces of how I work, coming to this account:
 - [inbox-to-brain](https://github.com/nickspiz/inbox-to-brain): drop notes in an inbox and the agent files them into your Obsidian vault.
 - [say-it-badly](https://github.com/nickspiz/say-it-badly): agent rules for voice dictation. Understand misheard names and numbers, still ask about money, prod and deletions.
 - [pilot-first-decisions](https://github.com/nickspiz/pilot-first-decisions): stop paying a chat model for yes/no answers. A decision-model recipe with a benchmark harness.
+- [social-post-skills](https://github.com/nickspiz/social-post-skills): one skill per social network, with the real limits and formats, so drafts fit LinkedIn, X, Bluesky, Threads, Instagram, Telegram and Reddit.
+- [niche-trends-30d](https://github.com/nickspiz/niche-trends-30d): find what worked in your niche over the last 30 days and turn its shape into your own posts, without copying anyone.
 
 ## How I work
 
